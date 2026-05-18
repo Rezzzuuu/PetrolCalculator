@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="28dp"
+    android:height="18dp"
+    android:viewportWidth="28"
+    android:viewportHeight="18">
+    <!-- Red and white stripes simplified -->
+    <path android:fillColor="#CC0001" android:pathData="M0,0h28v2h-28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M0,2h28v2h-28z"/>
+    <path android:fillColor="#CC0001" android:pathData="M0,4h28v2h-28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M0,6h28v2h-28z"/>
+    <path android:fillColor="#CC0001" android:pathData="M0,8h28v2h-28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M0,10h28v2h-28z"/>
+    <path android:fillColor="#CC0001" android:pathData="M0,12h28v2h-28z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M0,14h28v2h-28z"/>
+    <path android:fillColor="#CC0001" android:pathData="M0,16h28v2h-28z"/>
+    <!-- Blue canton -->
+    <path android:fillColor="#010066" android:pathData="M0,0h14v10h-14z"/>
+    <!-- Crescent moon simplified as circle cutout -->
+    <path android:fillColor="#FFCC00"
+        android:pathData="M5,5m-3,0a3,3 0,1,0 6,0a3,3 0,1,0 -6,0" />
+    <path android:fillColor="#010066"
+        android:pathData="M6,4m-2.5,0a2.5,2.5 0,1,0 5,0a2.5,2.5 0,1,0 -5,0" />
+    <!-- Star -->
+    <path android:fillColor="#FFCC00"
+        android:pathData="M10,3L10.4,4.2L11.7,4.2L10.7,5L11.1,6.2L10,5.5L8.9,6.2L9.3,5L8.3,4.2L9.6,4.2Z" />
+</vector>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Petrol Calculator</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_about">About</string>
+    <string name="petrol_type">Petrol Type</string>
+    <string name="ron95">RON95</string>
+    <string name="ron97">RON97</string>
+    <string name="diesel">Diesel</string>
+    <string name="price_per_liter">Price per Liter (RM)</string>
+    <string name="fuel_usage">Fuel Usage (Liters)</string>
+    <string name="budi_eligible">BUDI MADANI Eligible?</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset">RESET</string>
+    <string name="total_cost">Total Petrol Cost</string>
+    <string name="budi_rebate">BUDI Rebate</string>
+    <string name="total_saving">Total Saving</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="author_name">Danial Farhan Bin Muhammad Faisal</string>
+    <string name="matric_no">2025140177</string>
+    <string name="course">ICT602 — Mobile Technology</string>
+    <string name="copyright">© 2025 Danial Farhan. All Rights Reserved.</string>
+    <string name="github_url">https://github.com/danialfarhan/petrol-calculator</string>
+    <string name="github_label">View Source on GitHub</string>
+    <string name="budi_note">*BUDI Rebate applies to RON95 only (RM1.99/liter)</string>
+</resources>
