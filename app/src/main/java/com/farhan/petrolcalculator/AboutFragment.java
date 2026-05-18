@@ -16,7 +16,7 @@ import com.farhan.petrolcalculator.databinding.FragmentAboutBinding;
 public class AboutFragment extends Fragment {
 
     private FragmentAboutBinding binding;
-    private static final String GITHUB_URL = "https://github.com/danialfarhan/petrol-calculator";
+    private static final String GITHUB_URL = "https://github.com/Rezzzuuu/PetrolCalculator.git";
 
     @Nullable
     @Override
