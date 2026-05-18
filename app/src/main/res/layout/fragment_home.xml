@@ -458,7 +458,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="- RM 0.00"
-                            android:textColor="#FF6666"
+                            android:textColor="#F0ECEC"
                             android:textSize="22sp"
                             android:textStyle="bold" />
 
@@ -499,7 +499,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="TOTAL SAVING (FINAL PAYABLE)"
+                            android:text="TOTAL SAVING"
                             android:textColor="#AABBFF"
                             android:textSize="11sp"
                             android:letterSpacing="0.05" />
@@ -509,17 +509,11 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="RM 0.00"
-                            android:textColor="@color/yellow"
+                            android:textColor="@color/success_green"
                             android:textSize="26sp"
                             android:textStyle="bold" />
 
-                        <TextView
-                            android:id="@+id/tvSavedAmount"
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:text="You saved RM 0.00!"
-                            android:textColor="#66FF88"
-                            android:textSize="12sp" />
+
 
                     </LinearLayout>
 

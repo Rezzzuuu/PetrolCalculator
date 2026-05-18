@@ -178,7 +178,7 @@ public class HomeFragment extends Fragment {
             // FIXED: Variables are now correctly mapped to their UI elements
             binding.tvBudiRebate.setText(String.format("RM %.2f", budiRebate));
             binding.tvTotalSaving.setText(String.format("RM %.2f", totalSaving));
-            binding.tvSavedAmount.setText(String.format("You saved RM %.2f!", budiRebate));
+
 
             binding.rowBudiRebate.setVisibility(View.VISIBLE);
             binding.dividerSaving.setVisibility(View.VISIBLE);
